@@ -13,5 +13,5 @@ This cheat base is made for CS2 (Counter-Strike: 2), this is intended for people
 - [ ] Initialize ImGui
 
 # 🎮 Need help?
-Don't hesitate to add me on discord!
-armgladiator
+Make a issue!
+
